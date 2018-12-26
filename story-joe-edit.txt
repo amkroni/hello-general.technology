@@ -1,0 +1,3 @@
+Hello.
+This is not story.txt
+But this is story-joe-edit.txt
